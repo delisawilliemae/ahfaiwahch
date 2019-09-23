@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yahshooze.careeverywhere.com/sitemap.xml
